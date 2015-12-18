@@ -86,7 +86,7 @@ Global Const $iDelayDropTroop2 = 300
 Global Const $iDelayReturnHome1 = 1000
 Global Const $iDelayReturnHome2 = 500
 Global Const $iDelayReturnHome3 = 2500
-Global Const $iDelayReturnHome4 = 2000
+Global Const $iDelayReturnHome4 = 200
 Global Const $iDelayReturnHome5 = 200
 
 ;DropOnEdge
