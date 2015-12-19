@@ -169,5 +169,5 @@ Global Const $aAtkRprtDECheck2[4]    = [ 678, 418+30, 0x030000, 30] ;jp
 ;returnhome
 Global Const $aRtnHomeCheck1[4]      = [ 363, 548+30, 0x78C11C, 20] ;jp
 Global Const $aRtnHomeCheck2[4]      = [ 497, 548+30, 0x79C326, 20] ;jp
-Global Const $aRtnHomeCheck3[4]      = [ 284,  28+30, 0x41B1CD, 20] ;jp
+Global Const $aRtnHomeCheck3[4]      = [ 284,  28, 0x41B1CD, 20] ;jp
 
