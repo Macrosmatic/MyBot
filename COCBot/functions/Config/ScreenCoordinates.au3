@@ -117,7 +117,7 @@ Global $TrainLava[4]        = [ 220, 459+30, 0x4F4F40,     20] ;jp ;  Done
 Global $NextBtn[4]          = [ 780, 546+60, 0xD34300,     20] ;jp ;  Next Button
 ; Someone asking troops : Color 0xD0E978 in x = 121
 
-Global $aRequestTroopsAO[6]	= [705, 290+30, 0xD2EC80, 0x407D06, 0xD8D8D8, 20] ;jp ; Button Request Troops in Army Overview  (x,y,can request, request allready made, army full/no clan, toll)
+Global $aRequestTroopsAO[6]	= [716, 323, 0xCAE870, 0x407D06, 0xD8D8D8, 20] ;jp ; Button Request Troops in Army Overview  (x,y,can request, request allready made, army full/no clan, toll)
 
 Global Const $FullBarb[4]   = [ 253, 375+30, 0x8F8F8F, 45] ;jp  ; Location of Elixir check pixel with normal color and Barrack Full color
 Global Const $FullArch[4]   = [ 360, 375+30, 0x8D8D8D, 45] ;jp
